@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" fill="#10b981" rx="24"/>
+  <g fill="white">
+    <!-- Cabeça do boi -->
+    <ellipse cx="96" cy="80" rx="35" ry="30"/>
+    
+    <!-- Chifres -->
+    <path d="M 65 65 Q 50 50, 45 40 Q 40 35, 50 38 Q 60 45, 65 60 Z"/>
+    <path d="M 127 65 Q 142 50, 147 40 Q 152 35, 142 38 Q 132 45, 127 60 Z"/>
+    
+    <!-- Olhos -->
+    <circle cx="85" cy="75" r="4" fill="#10b981"/>
+    <circle cx="107" cy="75" r="4" fill="#10b981"/>
+    
+    <!-- Focinho -->
+    <ellipse cx="96" cy="90" rx="15" ry="12" fill="#e5e7eb"/>
+    <ellipse cx="92" cy="88" rx="3" ry="4" fill="#374151"/>
+    <ellipse cx="100" cy="88" rx="3" ry="4" fill="#374151"/>
+    
+    <!-- Corpo simplificado -->
+    <rect x="70" y="105" width="52" height="45" rx="8"/>
+    
+    <!-- Pernas -->
+    <rect x="75" y="145" width="12" height="25" rx="4"/>
+    <rect x="105" y="145" width="12" height="25" rx="4"/>
+  </g>
+</svg>
